@@ -1,0 +1,2 @@
+Fecha,Temperatura máxima,Temperatura mínima
+23,56,45
